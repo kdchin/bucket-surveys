@@ -1,0 +1,838 @@
+When your deliverable was assigned a bucket label (i.e. Beginning, Acquiring, Developing, Profici... (r0_BucketInterp)
+
+
+I converted to a percent. (r1_BucketInterp)
+
+
+Percent (r2_BucketInterp)
+
+
+Converted it to a percent. it should be an actual grade. the labels are confusing (r3_BucketInterp)
+
+
+proficient was interpreted as a percentage, close to 100% essentially (r4_BucketInterp)
+
+
+Converted to percent. (r5_BucketInterp)
+
+
+I converted it to the percentage so that I would be able to calculate our final grade on the checkpoint given the projected other grades (r6_BucketInterp)
+
+
+I intepreted it as is. (r7_BucketInterp)
+
+
+I converted it to percent scale. Because I cared about how much it was worth in terms of my total grade. (r8_BucketInterp)
+
+
+convert it to a percent (68%) (r9_BucketInterp)
+
+
+I took the labels at face value without translating them into points because they reflected my understanding of the skills. (r10_BucketInterp)
+
+
+I converted it to a % (r11_BucketInterp)
+
+
+i converted it to a percentage (r12_BucketInterp)
+
+
+I interpreted it as the bucket label, except for Extending which remained 100% in my mind. (r13_BucketInterp)
+
+
+
+
+we interpreted it as the stopping point - we did think about the rough grade range for each bucket and what that meant for our grades but we aimed for Proficiency on every checkpoint (r14_BucketInterp)
+
+
+percentage. (r15_BucketInterp)
+
+
+Percent (r16_BucketInterp)
+
+
+Incomplete if below Extending (r17_BucketInterp)
+
+
+I interpreted them as a label. I did associate Proficient with 100% for the code artifact though. (r18_BucketInterp)
+
+
+to a percent (r19_BucketInterp)
+
+
+Converted it to percentage (r20_BucketInterp)
+
+
+As is (r21_BucketInterp)
+
+
+Bucket scale since we didn't really know the exact percentage. (r22_BucketInterp)
+
+
+I converted it to a percent. (r23_BucketInterp)
+
+
+Converted to percent, treated it as the lower bound on the score. (r24_BucketInterp)
+
+
+Interpret as is in bucket scale. We wanted to get to 100%. (r25_BucketInterp)
+
+
+Sometimes, when we were stuck and unsure if would be able to reach the next bucket we'd look up the percentage to determine if we should spend more time on it (r26_BucketInterp)
+
+
+I converted it to a percent. (r27_BucketInterp)
+
+
+No, just developed until proficient. (r28_BucketInterp)
+
+I interpret the label as the percent. (r29_BucketInterp)
+
+
+really my goal was always just to get proficient.  I always thought of it as a percentage and would only be happy with a proficient. (r30_BucketInterp)
+
+
+We interpreted Extending/Proficient as 100% at least. (r31_BucketInterp)
+
+
+Point Scale (r32_BucketInterp)
+
+
+Didn't think too hard, always strived for proficient. (r33_BucketInterp)
+
+
+Converted it to percentage (r34_BucketInterp)
+
+
+As is (r35_BucketInterp)
+
+
+I converted it to percent (r36_BucketInterp)
+
+
+I didn't pay much attention to the grading system while working on the project. (r37_BucketInterp)
+
+
+As is. (r38_BucketInterp)
+
+
+I left it as is (r39_BucketInterp)
+
+
+I converted to a percent to know more or less if it was good or not. (r40_BucketInterp)
+
+
+Bucket (r41_BucketInterp)
+
+
+Percent mostly (r42_BucketInterp)
+
+
+Percent (r43_BucketInterp)
+
+
+interpreted as the percent the bucket was equal to (r44_BucketInterp)
+
+
+we interpreted as a percentage. (r45_BucketInterp)
+
+We just aimed for the highest bucket, since that was 100%. (r46_BucketInterp)
+
+
+There was no extending. Convert proficient to 100%, ignore everything else (r47_BucketInterp)
+
+
+I converted it to percentage. (r48_BucketInterp)
+
+
+I will just interpret the label as is as our goal is only proficient (r49_BucketInterp)
+
+
+None - I didn't really think about it. (r50_BucketInterp)
+
+
+'- We interpreted the label as is. (r51_BucketInterp)
+
+
+We interpreted it as-is *but* in full knowledge that Proficient was our goal and anything less was a steep downgrade in grades. (r52_BucketInterp)
+
+
+We tried it as is. We did not translate to a percent. (r53_BucketInterp)
+
+
+I interpreted it as whatever the bucket score conversion was (ie what shows up on classy) (r54_BucketInterp)
+
+
+I interpreted it as is, but not really by the descriptor more by what it's relative level was (i.e. beginning is the lowest level, developing is almost done) (r55_BucketInterp)
+
+
+Converted. (r56_BucketInterp)
+
+
+I converted it mentally to a percentage to know how good I was doing in that given phase. (r57_BucketInterp)
+
+
+I always tried to convert it to a percentage, which is why it would have been helpful if it was a percentage to start with. (r58_BucketInterp)
+
+
+our group converted it to a percentage ie; proficient in one means 100 in that bucket. (r59_BucketInterp)
+
+
+Our goal was always to get to Proficient. We would convert and interpret Proficient as 100 percent. However, for submissions that did not attain this bucket, we didn't bother thinking about converting anything. We largely saw these phases at transitory on the way to the goal (r60_BucketInterp)
+
+
+Neither, I only aimed for proficiency. (r61_BucketInterp)
+
+
+Converted to percent. (r62_BucketInterp)
+
+
+Percent (r63_BucketInterp)
+
+
+converted it to a percent grade for a more accurate idea (r64_BucketInterp)
+
+
+Proficient = good enough. Anything below is not completed project. (r65_BucketInterp)
+
+
+We related it to a grade but not a specific percent (r66_BucketInterp)
+
+
+Mainly just as is, as a bucket. (r67_BucketInterp)
+
+
+I interpreted as a percentage. (r68_BucketInterp)
+
+
+In the bucket scale (r69_BucketInterp)
+
+
+I converted every bucket to the maximum grade point it was worth (Proficient = 100%, Developing = 80%, etc) (r70_BucketInterp)
+
+
+Used the bucket label to determine an estimate of the final grade (percentage) for the deliverable, assuming we get full marks for non-code task. (r71_BucketInterp)
+
+
+Simple interpreted as a label (r72_BucketInterp)
+
+
+i converted it to a percentage of the lowest bucket grading in that label (r73_BucketInterp)
+
+
+Converted it to a percent. (r74_BucketInterp)
+
+
+Converted it into a percent. (r75_BucketInterp)
+
+
+Both, since it told me where I was at, and was told there was an equivalent bucket grade. (r76_BucketInterp)
+
+
+I interpreted any bucket other than proficient on the code portion as meaning I am not done yet. (r77_BucketInterp)
+
+
+I interpreted it as in the bucket scale. Without seeing how many tests were failing behind the scenes, I don't know how I could've converted it. (r78_BucketInterp)
+
+
+as a bucket scale (r79_BucketInterp)
+
+
+I converted it to a point scale (r80_BucketInterp)
+
+
+Convert to percentage (r81_BucketInterp)
+
+
+Converted it to a percentage (r82_BucketInterp)
+
+
+I looked at what percent it corresponded to. (r83_BucketInterp)
+
+
+I converted it to a percentage to know what mark I was getting for that portion. (r84_BucketInterp)
+
+
+convert it to poibt scale or percent. Because to us bucket label is too abstract (r85_BucketInterp)
+
+
+I interpreted it as is (r86_BucketInterp)
+
+
+Interpreted as is. (r87_BucketInterp)
+
+
+We converted it to beginning being 0-50%, acuqiring to be 50-75, developing to be 75-85 and proficient to be 85+ (r88_BucketInterp)
+
+
+Percent (r89_BucketInterp)
+
+
+I basically viewed everything as "incomplete" except Proficient, and just tried to get Proficient on every assessment. (r90_BucketInterp)
+
+
+Directly convert to grade. Especially for Acquiring, Developing which for me were complicated to remember which one comes before which. (r91_BucketInterp)
+
+
+I converted it to point scale, like 3/4 (r92_BucketInterp)
+
+
+Converted it to %. (r93_BucketInterp)
+
+
+I converted it into a percent scale. (r94_BucketInterp)
+
+
+I converted it to a percent, to know my grade (r95_BucketInterp)
+
+
+converted it into percent (r96_BucketInterp)
+
+
+Tried hard to convert it to % (r97_BucketInterp)
+
+
+I interpreted it as bucket scale. (r98_BucketInterp)
+
+
+I find it's less terrifying compare the straight percentage. I treat it like a milestone. (r99_BucketInterp)
+
+
+Label (r100_BucketInterp)
+
+
+Mental conversion to percent, usually. (r101_BucketInterp)
+
+
+I did convert it into the percent/point scale. (r102_BucketInterp)
+
+
+converted it to a point scale or percent (r103_BucketInterp)
+
+
+I converted it to percent immediately. (r104_BucketInterp)
+
+
+if it wasn't proficient I equated it to a 50%, not good enough. (r105_BucketInterp)
+
+
+Converted it to percentage (r106_BucketInterp)
+
+
+to point scale (r107_BucketInterp)
+
+
+We interpreted it as is, because that method of grading made us think about the grading less (r108_BucketInterp)
+
+
+I only consider autograded programming assignments to be done when I hit 100, so for me, it remained a binary done/not done (r109_BucketInterp)
+
+
+I interpreted it as a letter grade scale where Beginning was F, Acquiring was C, Developing was B and Proficient/ Extending was A. (r110_BucketInterp)
+
+
+I convert to percent to determine my grade for the checkpoint (r111_BucketInterp)
+
+
+convert to percentage (r112_BucketInterp)
+
+
+as is (r113_BucketInterp)
+
+
+Yes unfortunately we had to convert it (proficent === 100) as grades still matter. It's hard to interpret it as a bucket scale. (r114_BucketInterp)
+
+
+We convert to percentage (r115_BucketInterp)
+
+
+Converted to percent, as our final grade is also a percent (r116_BucketInterp)
+
+
+interpreted as is (r117_BucketInterp)
+
+
+I interpreted it as the label. (r118_BucketInterp)
+
+
+Bucket (r119_BucketInterp)
+
+
+Interpreted as a label in the bucket scale. (r120_BucketInterp)
+
+
+I interpreted it as a bucket, but proficient still meant 100% to me. (r121_BucketInterp)
+
+
+We interpreted the label as is. (r122_BucketInterp)
+
+
+As it. (r123_BucketInterp)
+
+
+Convert to percent. (r124_BucketInterp)
+
+
+as is (r125_BucketInterp)
+
+
+as is (r126_BucketInterp)
+
+
+convert to a percentage. (r127_BucketInterp)
+
+
+I just converted it to if I was finished or not finished. I.e if I got proficient then I was done, and if I didn't get proficient then I still was not finished. (r128_BucketInterp)
+
+
+No, I just care whether my code is prefect or not. (r129_BucketInterp)
+
+
+It is a label, but we still try to ensure we add additional cases to fix any potential errors still lurking. (r130_BucketInterp)
+
+
+Took it at face value (bucket scale) (r131_BucketInterp)
+
+
+i convert it to points (r132_BucketInterp)
+
+
+Converted it to percent (r133_BucketInterp)
+
+
+I will change it to % (r134_BucketInterp)
+
+
+Percent (r135_BucketInterp)
+
+
+We convert to percentage. (r136_BucketInterp)
+
+
+Converted it to percent scale (r137_BucketInterp)
+
+
+percent (r138_BucketInterp)
+
+
+I interpret this as a bucket label (r139_BucketInterp)
+
+
+I just considered each of them a 25% increase, with proficient being 100%. While that may not be the case, my partner and I aimed for proficient every checkpoint regardless. (r140_BucketInterp)
+
+
+Both, as is but also a percent as well. (r141_BucketInterp)
+
+
+bucket scale (r142_BucketInterp)
+
+
+I would leave it as a label. (r143_BucketInterp)
+
+
+when we got developing because one bug, we did not consider it to actually mean "developing". We considered it something more like "derailed" or "disrupted" and treated it as a 0% in our head. As far as we were concerned our code was proficient but there was a spec misread somewhere (r144_BucketInterp)
+
+
+Percent (r145_BucketInterp)
+
+
+we converted it to the percent equivalent. (r146_BucketInterp)
+
+
+percent I will get what that bucket (r147_BucketInterp)
+
+
+Converted to a percent. (r148_BucketInterp)
+
+
+I did nothing, I only cared if the label was proficient or not. (r149_BucketInterp)
+
+
+I usually look at it in terms of percentage (so convert to a percent I guess). (r150_BucketInterp)
+
+
+The labels read: Not Done, Not Done, Still Not Done, Done, Basically Meaningless (this just indicates something about two separately graded assignments). (r151_BucketInterp)
+
+
+Converted it to percent. (r152_BucketInterp)
+
+
+I would have converted it to be a percent. (r153_BucketInterp)
+
+
+We interpreted the label as is. We always wanted to reach proficient (r154_BucketInterp)
+
+
+The bucket scale labels. (r155_BucketInterp)
+
+
+bucket scale (r156_BucketInterp)
+
+
+Yes, I guessed that each level represents 25%, so that I can get an estimate of my grade. (r157_BucketInterp)
+
+
+I converted it to percent. (r158_BucketInterp)
+
+
+I regard it as a percent. (r159_BucketInterp)
+
+
+percent (r160_BucketInterp)
+
+
+I convert it to a point scale or percent. (r161_BucketInterp)
+
+
+A percentage (r162_BucketInterp)
+
+
+Percent (r163_BucketInterp)
+
+
+Converted to percentage (r164_BucketInterp)
+
+
+Converted it to a percent. (r165_BucketInterp)
+
+
+I interpreted the label as is. (r166_BucketInterp)
+
+
+We truthfully did not care about the label. We were more focused on passing the smoke test. (r167_BucketInterp)
+
+
+convert it to a point scale (r168_BucketInterp)
+
+
+It is hard to avoid converting it to a percentage as this is what we receive in the end. (r169_BucketInterp)
+
+
+i interpret the label as it is. (r170_BucketInterp)
+
+
+Convert it to a point scale or percent (r171_BucketInterp)
+
+
+On intial implementation versions (especially when we would submit a #c2 when the final product was not fully ready), it was seen as bucket grade. But once it came to smoothing out the corner cases and bugs, it was seen as a percent. (r172_BucketInterp)
+
+
+I interpreted it as is (r173_BucketInterp)
+
+
+We just ignored them because we dont find them to have much meaning. (r174_BucketInterp)
+
+
+I just converted it to what it would mean in percentages. (r175_BucketInterp)
+
+
+i converted it to percent (r176_BucketInterp)
+
+
+We used each label as 20%. Beginning = 20%, Acquiring = 40%, Developing = 60%, Proficient = 80%, and Extending = 100% (r177_BucketInterp)
+
+
+Just as the label. (r178_BucketInterp)
+
+
+We converted it to percent according to the category. (r179_BucketInterp)
+
+
+Percent scale for grade (r180_BucketInterp)
+
+
+I interpreted it as is. (r181_BucketInterp)
+
+
+I'm not sure what you mean by interpreting the label as is? Because in my head, I thought of everything as the bucket scale; but I didn't think about the names to represent where I was, if you understand what I mean. Like in my head, I was shooting for proficient because that means max marks, not that proficient represents my progress. (r182_BucketInterp)
+
+
+I checked always how much percentage it would correspond to. (r183_BucketInterp)
+
+
+converted it to a percentage (r184_BucketInterp)
+
+
+Interpret as is, always aimed for Proficient (r185_BucketInterp)
+
+
+convert to a percent (r186_BucketInterp)
+
+
+covert it to a point scale. (r187_BucketInterp)
+
+
+converted to percent (r188_BucketInterp)
+
+
+I converted it to percentages to see how well we were doing. (r189_BucketInterp)
+
+
+interpreted as label (r190_BucketInterp)
+
+
+Converted it to a point scale. (r191_BucketInterp)
+
+
+Mostly just a bucket, but sometimes considered it roughly as percentages (80s vs 90s) (r192_BucketInterp)
+
+
+My goal was to get Extending on everything, so the other buckets were of little importance. (r193_BucketInterp)
+
+
+I often interpreted the label as is, but often near the deadline of the checkpoint, I converted to a percent to see what grade our group would possibly get. (r194_BucketInterp)
+
+
+I converted it to percentage as I was aiming for full marks. (r195_BucketInterp)
+
+
+Percentage since that is what will be put in the grade book. (r196_BucketInterp)
+
+
+I interpreted the label as is (r197_BucketInterp)
+
+
+kept it bucket (r198_BucketInterp)
+
+
+I took "proficient" as "we're done here, time to move on.  if something breaks, then we go back and debug" (if I had to put a number to it, it would be 100%). (r199_BucketInterp)
+
+
+Never did we convert it to a percentage, we more focused on it as a signal for how much work needed to be done relative to the time we had. (r200_BucketInterp)
+
+
+Converted to a percentage (r201_BucketInterp)
+
+
+I converted it to a percent. (r202_BucketInterp)
+
+
+I viewed it as less than or equal to 100% (I.e. anything except proficient) (r203_BucketInterp)
+
+
+I converted it to a percent. I wished to calculate what my overall project grade would be, and what quiz/final grade I would need to get to get my desired grade in this course. (r204_BucketInterp)
+
+
+i did not convert it to anything, I don't think it related to anything (r205_BucketInterp)
+
+
+bucket scale (r206_BucketInterp)
+
+
+I just took it as the bucket scale and tried to aim for proficient. (r207_BucketInterp)
+
+
+I don’t interpret the label. Smoke tests are just for grading for me. If I get 100 I’m done (r208_BucketInterp)
+
+
+converted to percentage (r209_BucketInterp)
+
+
+I used the percent to bucket label conversion we were given on the website. (r210_BucketInterp)
+
+
+to percet (r211_BucketInterp)
+
+
+As is .. and worked to get to extending (r212_BucketInterp)
+
+
+the bucket scale (r213_BucketInterp)
+
+
+We only cares about the label itself. (r214_BucketInterp)
+
+
+Yes, I convert it into a point scale (r215_BucketInterp)
+
+
+As is. (r216_BucketInterp)
+
+
+converted it to a percent. (r217_BucketInterp)
+
+
+I converted it to a percent. (r218_BucketInterp)
+
+
+bucket (r219_BucketInterp)
+
+
+Bucket scale (r220_BucketInterp)
+
+
+Percent (r221_BucketInterp)
+
+
+We converted it to a percentage (r222_BucketInterp)
+
+
+Convert it to a point scale (r223_BucketInterp)
+
+
+As is. (r224_BucketInterp)
+
+
+For us, the goal was always to reach at least Developing since we knew it was an 80%. Then, in the interest of time, we would decide if we wanna try for proficient or even extending. We would therefore usually not convert before reaching Developing. (r225_BucketInterp)
+
+
+As is. (r226_BucketInterp)
+
+
+I think subconsciously I converted them to a point system just because that is what I'm used to. (r227_BucketInterp)
+
+
+Converted it to a percent (r228_BucketInterp)
+
+
+converted it (r229_BucketInterp)
+
+
+I interpreted it as bucket scale. (r230_BucketInterp)
+
+
+percent (r231_BucketInterp)
+
+
+I personally tend to convert it into a percent scale, as the classy website later also shows a percentage mark. (r232_BucketInterp)
+
+
+I interpreted the label on the bucket scale. (r233_BucketInterp)
+
+
+I didn’t really think about it (r234_BucketInterp)
+
+
+I didn't convert it, just interpreted it as the bucket (r235_BucketInterp)
+
+
+As is (r236_BucketInterp)
+
+
+When my deliverable was assigned a bucket label, I typically interpreted the label within the bucket scale and then converted it to a percentage scale for better clarity and comparison. This conversion helped me to gauge the progress more accurately and understand where the deliverable stood in relation to the overall project goals. (r237_BucketInterp)
+
+
+Interpreted on bucket scale (r238_BucketInterp)
+
+
+point scale (r239_BucketInterp)
+
+
+Convert (r240_BucketInterp)
+
+
+I interpreted as is. (r241_BucketInterp)
+
+
+I checked and converted it to a percentage. (r242_BucketInterp)
+
+
+convert to percentage (r243_BucketInterp)
+
+
+Convert to percentage that the bucket belongs to. (r244_BucketInterp)
+
+
+Interpreted as is. Goal was always to get to proficient. (r245_BucketInterp)
+
+
+well we aimed to be proficient in each checkpoint so for us it was just a measure of whether we are meeting our goal or not. (r246_BucketInterp)
+
+
+I interpret the label as what it is. (r247_BucketInterp)
+
+
+I converted it to the maximum percentage i.e proficient being 100% (r248_BucketInterp)
+
+
+Yes we would think of it in percentage (r249_BucketInterp)
+
+
+As is (r250_BucketInterp)
+
+
+Percent is the only usefull thing. (r251_BucketInterp)
+
+
+I interpreted the label as the grade that corresponded to it (e.g., 68% for Acquiring) (r252_BucketInterp)
+
+
+We converted it to the minimum percentage that the bucket could represent. (r253_BucketInterp)
+
+
+I interpreted it as is. (r254_BucketInterp)
+
+
+I convert it to percent (r255_BucketInterp)
+
+
+Percent. (r256_BucketInterp)
+
+
+My partner and I mentally converted it to a point score and would say that we got 100% when we were in Proficient. (r257_BucketInterp)
+
+
+Converted to a percent. (r258_BucketInterp)
+
+
+As is. (r259_BucketInterp)
+
+
+Converted it to a point scale, but I like the bucket grading. (r260_BucketInterp)
+
+
+Converted to percent (r261_BucketInterp)
+
+
+convert to point or percentage always. (r262_BucketInterp)
+
+
+I convert it to a percentage (r263_BucketInterp)
+
+
+I would convert it to a rough percentage if I was confident the number of smoke tests passing was at the highest grade cutoff for that bucked. Other times, I would just see it as a label. (r264_BucketInterp)
+
+
+I converted it to a percentage as listed on the course website (the names of the buckets themselves meant nothing to me) (r265_BucketInterp)
+
+
+I converted it to percentages. (r266_BucketInterp)
+
+
+We converted to a percentage scale. (r267_BucketInterp)
+
+
+I interpret the label as in the bucket scale. (r268_BucketInterp)
+
+
+I converted it to a percentage out of 100 (r269_BucketInterp)
+
+
+Immediately to a percent — and often because of how we made our implementations, it was a discussion of “ok so we have 20 per cent, let’s do this grade… ok now it’s 100” (r270_BucketInterp)
+
+
+always as a %. i saw developing as 80% and proficient as full or 100% (r271_BucketInterp)
+
+
+I interpreted it as is. (r272_BucketInterp)
+
+
+Truthfully, I didn't really think about it at all. I just focused on getting proficient/extending and then just waited for Classy to calculate the grade. (r273_BucketInterp)
+
+
+I interpreted it as is (r274_BucketInterp)
+
+
+Proficient was 80% and everything below was under 80% and everything above was above 80%. (r275_BucketInterp)
+
+
+converted (r276_BucketInterp)
+
+
+Interpreted as is (r277_BucketInterp)
+
+
+I interpret label as it is in the bucket scale (r278_BucketInterp)
+
+
+convert it to a point scale or percent (r279_BucketInterp)
